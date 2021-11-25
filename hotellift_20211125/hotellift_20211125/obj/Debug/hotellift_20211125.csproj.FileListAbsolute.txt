@@ -1,0 +1,10 @@
+Z:\12.osztály\C#\Console\hotellift_20211125\hotellift_20211125\bin\Debug\hotellift_20211125.exe.config
+Z:\12.osztály\C#\Console\hotellift_20211125\hotellift_20211125\bin\Debug\hotellift_20211125.exe
+Z:\12.osztály\C#\Console\hotellift_20211125\hotellift_20211125\bin\Debug\hotellift_20211125.pdb
+Z:\12.osztály\C#\Console\hotellift_20211125\hotellift_20211125\obj\Debug\hotellift_20211125.csprojAssemblyReference.cache
+Z:\12.osztály\C#\Console\hotellift_20211125\hotellift_20211125\obj\Debug\hotellift_20211125.Form1.resources
+Z:\12.osztály\C#\Console\hotellift_20211125\hotellift_20211125\obj\Debug\hotellift_20211125.Properties.Resources.resources
+Z:\12.osztály\C#\Console\hotellift_20211125\hotellift_20211125\obj\Debug\hotellift_20211125.csproj.GenerateResource.cache
+Z:\12.osztály\C#\Console\hotellift_20211125\hotellift_20211125\obj\Debug\hotellift_20211125.csproj.CoreCompileInputs.cache
+Z:\12.osztály\C#\Console\hotellift_20211125\hotellift_20211125\obj\Debug\hotellift_20211125.exe
+Z:\12.osztály\C#\Console\hotellift_20211125\hotellift_20211125\obj\Debug\hotellift_20211125.pdb
